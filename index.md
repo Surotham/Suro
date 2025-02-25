@@ -1,11 +1,3 @@
-# Navigating Life's Terrain: The Trek Within
-
-<div style="text-align: center; font-style: italic; margin-bottom: 40px;">
-A journey through the mountains and valleys of our existence
-</div>
-
-<br>
-
 Step by step, the path unfolds, <br>
 A winding tale yet to be told.<br>
 The peak ahead, a distant sight,<br>
