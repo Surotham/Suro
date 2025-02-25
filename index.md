@@ -1,6 +1,8 @@
 # Navigating Life's Terrain: The Trek Within
 
-<div align="center"><em>A journey through the mountains and valleys of our existence</em></div>
+<div style="text-align: center; font-style: italic; margin-bottom: 40px;">
+A journey through the mountains and valleys of our existence
+</div>
 
 <br>
 
